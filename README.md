@@ -7,3 +7,7 @@ They're simple projects made in C.
 ## Super Trunfo
 
 This one is just to ask the user for some parameters to create 2 cards of Super Trunfo, store the information and print on the screen all of them card by card.
+
+## Xadrez
+
+This one is just to ask the user for the chess piece they want to move and for how many houses, except for the knight that has its move locked.
