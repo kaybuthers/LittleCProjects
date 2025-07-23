@@ -11,3 +11,7 @@ This one is just to ask the user for some parameters to create 2 cards of Super 
 ## Xadrez
 
 This one is just to ask the user for the chess piece they want to move and for how many houses, except for the knight that has its move locked.
+
+## Batalha Naval
+
+Battleship War using a fixed size for the battleships in a 10 x 10 grid.
